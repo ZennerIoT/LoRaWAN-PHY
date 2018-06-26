@@ -26,18 +26,18 @@ there are additional files in the root directory:
 
 ## Supported regions
 
- -[x] EU 863-870
- -[ ] US 902-928
- -[ ] China 779-787
- -[ ] EU 443
- -[ ] Australia 915-928
- -[ ] China 470-510
- -[ ] Asia 923
- -[ ] South Korea 920-923
- -[ ] India 865-867
+ - [x] EU 863-870
+ - [ ] US 902-928
+ - [ ] China 779-787
+ - [ ] EU 443
+ - [ ] Australia 915-928
+ - [ ] China 470-510
+ - [ ] Asia 923
+ - [ ] South Korea 920-923
+ - [ ] India 865-867
 
 ## Supported Languages
 
- -[x] English
- -[x] German
- -[ ] *Your language here*
+ - [x] English
+ - [x] German
+ - [ ] *Your language here*

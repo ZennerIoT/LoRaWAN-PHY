@@ -1,0 +1,10 @@
+[
+  {"data_rate": 0, "with_repeater": {"mac_payload": 59, "application_payload": 51}, "without_repeater": {"mac_payload": 59, "application_payload": 51}},
+  {"data_rate": 1, "with_repeater": {"mac_payload": 59, "application_payload": 51}, "without_repeater": {"mac_payload": 59, "application_payload": 51}},
+  {"data_rate": 2, "with_repeater": {"mac_payload": 59, "application_payload": 51}, "without_repeater": {"mac_payload": 59, "application_payload": 51}},
+  {"data_rate": 3, "with_repeater": {"mac_payload": 123, "application_payload": 115}, "without_repeater": {"mac_payload": 123, "application_payload": 115}},
+  {"data_rate": 4, "with_repeater": {"mac_payload": 230, "application_payload": 222}, "without_repeater": {"mac_payload": 250, "application_payload": 242}},
+  {"data_rate": 5, "with_repeater": {"mac_payload": 230, "application_payload": 222}, "without_repeater": {"mac_payload": 250, "application_payload": 242}},
+  {"data_rate": 6, "with_repeater": {"mac_payload": 230, "application_payload": 222}, "without_repeater": {"mac_payload": 250, "application_payload": 242}},
+  {"data_rate": 7, "with_repeater": {"mac_payload": 230, "application_payload": 222}, "without_repeater": {"mac_payload": 250, "application_payload": 242}}
+]

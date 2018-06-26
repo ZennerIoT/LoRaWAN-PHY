@@ -1,0 +1,4 @@
+[
+  {"ch_mask_cntl": 0, "text": "Channels 1 to 16"},
+  {"ch_mask_cntl": 6, "text": "Turn all channels on (ignore channel mask)"}
+]

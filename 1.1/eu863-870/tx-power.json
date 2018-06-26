@@ -1,0 +1,10 @@
+[
+  {"tx_power": 0, "eirp_diff": 0, "configuration": "Max EIRP"},
+  {"tx_power": 1, "eirp_diff": -2, "configuration": "Max EIRP - 2dB"},
+  {"tx_power": 2, "eirp_diff": -4, "configuration": "Max EIRP - 4dB"},
+  {"tx_power": 3, "eirp_diff": -6, "configuration": "Max EIRP - 6dB"},
+  {"tx_power": 4, "eirp_diff": -8, "configuration": "Max EIRP - 8dB"},
+  {"tx_power": 5, "eirp_diff": -10, "configuration": "Max EIRP - 10dB"},
+  {"tx_power": 6, "eirp_diff": -12, "configuration": "Max EIRP - 12dB"},
+  {"tx_power": 7, "eirp_diff": -14, "configuration": "Max EIRP - 14dB"}
+]

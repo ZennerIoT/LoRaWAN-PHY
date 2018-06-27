@@ -1,4 +1,4 @@
 [
-  {"ch_mask_cntl": 0, "text": "Kanäle 1 bis 16", "offset": 0, "disable": false, "limit": 8},
+  {"ch_mask_cntl": 0, "text": "Kanäle 1 bis 8", "offset": 0, "disable": false, "limit": 8},
   {"ch_mask_cntl": 6, "text": "Alle Kanäle anschalten (Kanalmaske ignorieren)", "offset": 0, "disable": true, "limit": 8}
 ]

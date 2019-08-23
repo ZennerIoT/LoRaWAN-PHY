@@ -1,10 +1,74 @@
 [
-  {"data_rate": 0, "configuration": "LoRa: SF12 / 125 kHz", "bit_rate": 250, "spreading_factor": 12, "bandwidth": 125},
-  {"data_rate": 1, "configuration": "LoRa: SF11 / 125 kHz", "bit_rate": 440, "spreading_factor": 11, "bandwidth": 125},
-  {"data_rate": 2, "configuration": "LoRa: SF10 / 125 kHz", "bit_rate": 980, "spreading_factor": 10, "bandwidth": 125},
-  {"data_rate": 3, "configuration": "LoRa: SF9 / 125 kHz", "bit_rate": 1760, "spreading_factor": 9, "bandwidth": 125},
-  {"data_rate": 4, "configuration": "LoRa: SF8 / 125 kHz", "bit_rate": 3125, "spreading_factor": 8, "bandwidth": 125},
-  {"data_rate": 5, "configuration": "LoRa: SF7 / 125 kHz", "bit_rate": 5470, "spreading_factor": 7, "bandwidth": 125},
-  {"data_rate": 6, "configuration": "LoRa: SF7 / 250 kHz", "bit_rate": 11000, "spreading_factor": 7, "bandwidth": 250},
-  {"data_rate": 7, "configuration": "FSK: 50 kbps", "bit_rate": 50000, "spreading_factor": null, "bandwidth": null}
+  {
+    "data_rate": 0,
+    "configuration": "LoRa: SF12 / 125 kHz",
+    "bit_rate": 250,
+    "spreading_factor": 12,
+    "bandwidth": 125,
+    "direction": "both",
+    "rfu": false
+  },
+  {
+    "data_rate": 1,
+    "configuration": "LoRa: SF11 / 125 kHz",
+    "bit_rate": 440,
+    "spreading_factor": 11,
+    "bandwidth": 125,
+    "direction": "both",
+    "rfu": false
+  },
+  {
+    "data_rate": 2,
+    "configuration": "LoRa: SF10 / 125 kHz",
+    "bit_rate": 980,
+    "spreading_factor": 10,
+    "bandwidth": 125,
+    "direction": "both",
+    "rfu": false
+  },
+  {
+    "data_rate": 3,
+    "configuration": "LoRa: SF9 / 125 kHz",
+    "bit_rate": 1760,
+    "spreading_factor": 9,
+    "bandwidth": 125,
+    "direction": "both",
+    "rfu": false
+  },
+  {
+    "data_rate": 4,
+    "configuration": "LoRa: SF8 / 125 kHz",
+    "bit_rate": 3125,
+    "spreading_factor": 8,
+    "bandwidth": 125,
+    "direction": "both",
+    "rfu": false
+  },
+  {
+    "data_rate": 5,
+    "configuration": "LoRa: SF7 / 125 kHz",
+    "bit_rate": 5470,
+    "spreading_factor": 7,
+    "bandwidth": 125,
+    "direction": "both",
+    "rfu": false
+  },
+  {
+    "data_rate": 6,
+    "configuration": "LoRa: SF7 / 250 kHz",
+    "bit_rate": 11000,
+    "spreading_factor": 7,
+    "bandwidth": 250,
+    "direction": "both",
+    "rfu": false
+  },
+  {
+    "data_rate": 7,
+    "configuration": "FSK: 50 kbps",
+    "bit_rate": 50000,
+    "spreading_factor": null,
+    "bandwidth": null,
+    "direction": "both",
+    "rfu": false
+  }
 ]

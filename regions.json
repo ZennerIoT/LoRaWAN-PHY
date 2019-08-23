@@ -1,3 +1,4 @@
 [
-  {"slug": "eu863-870", "humanized": "EU (863-870 MHz)", "min_freq": 863, "max_freq": 870}
+  {"slug": "eu863-870", "humanized": "EU (863-870 MHz)", "min_freq": 863, "max_freq": 870, "shortslug": "eu863"},
+  {"slug": "us902-928", "humanized": "USA (902-928 MHz)", "min_freq": 902, "max_freq": 928, "shortslug": "us902"}
 ]

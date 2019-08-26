@@ -1,10 +1,11 @@
 {
   "name": "lorawan-phy",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Copy of the LoRaWAN PHY spec in machine-readable form",
   "main": "bin.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
   },
   "repository": {
     "type": "git",

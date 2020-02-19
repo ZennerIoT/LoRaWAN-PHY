@@ -1,6 +1,6 @@
 {
   "name": "lorawan-phy",
-  "version": "0.0.9",
+  "version": "0.0.11",
   "description": "Copy of the LoRaWAN PHY spec in machine-readable form",
   "main": "bin.json",
   "scripts": {

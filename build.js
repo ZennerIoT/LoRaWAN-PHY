@@ -23,4 +23,4 @@ let out = regions.map((region) => {
 const output = JSON.stringify(out)
 
 fs.writeFile("bin.json", output, () => true)
-console.log("bin.js built")
+console.log("bin.json built")

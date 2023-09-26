@@ -28,13 +28,16 @@ there are additional files in the root directory:
 
  - [x] EU 863-870
  - [ ] US 902-928
- - [ ] China 779-787
+ - [x] China 779-787 (*)
  - [ ] EU 443
- - [ ] Australia 915-928
- - [ ] China 470-510
- - [ ] Asia 923
+ - [x] Australia 915-928 (*)
+ - [x] China 470-510 (*)
+ - [x] Asia 923 (*)
  - [ ] South Korea 920-923
  - [ ] India 865-867
+ - [x] Russia 864 (*)
+
+\*: Frequency Range and Datarate values only
 
 ## Supported Languages
 

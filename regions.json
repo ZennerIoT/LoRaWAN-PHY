@@ -4,5 +4,6 @@
   {"slug": "cn779-787", "common_name": "cn779", "humanized": "China (779-787 MHz)", "min_freq": 779.5, "max_freq": 786.5, "shortslug": "cn779", "default_rx2_dr": 0},
   {"slug": "cn470-510", "common_name": "cn470", "humanized": "China (470-510 MHz)", "min_freq": 470, "max_freq": 510, "shortslug": "cn470", "default_rx2_dr": 0},
   {"slug": "ru864-870", "common_name": "ru864", "humanized": "Russia (864-870 MHz)", "min_freq": 864, "max_freq": 870, "shortslug": "ru864", "default_rx2_dr": 0},
-  {"slug": "as923",     "common_name": "as923", "humanized": "Asia (923 MHz)", "min_freq": 923, "max_freq": 923.5, "shortslug": "as923", "default_rx2_dr": 0}
+  {"slug": "as923",     "common_name": "as923", "humanized": "Asia (923 MHz)", "min_freq": 923, "max_freq": 923.5, "shortslug": "as923", "default_rx2_dr": 0},
+  {"slug": "au915-928",     "common_name": "au915", "humanized": "Australia (915 MHz)", "min_freq": 915, "max_freq": 928, "shortslug": "au915", "default_rx2_dr": 0}
 ]
